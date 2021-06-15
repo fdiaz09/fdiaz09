@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fdiaz09
 - 👀 I’m interested in Education, Economics and the environment 
-- 🌱 I’m currently learning about human-wildlife conflict in India
+- 🌱 I’m currently learning about human-elephant conflict in India
 - 📫 How to reach me --> twitter @fdiaz09
 
 <!---

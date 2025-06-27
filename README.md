@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @fdiaz09
-- 👀 I’m interested in education, economics and the environment 
-- 🌱 I’m learning about carbon sequestration in soils and human-elephant conflict in India
-- 📚 I'm a RADIUS and LEVEL YPP fellow
-- 🤓 I'm deciding where I want to apply for graduate school
-- 📫 How to reach me --> twitter @fdiaz09 or IG @ferdiazosorio
+- 👀 I’m interested in human-water systems and a bunch of other things
+- 🌱 I’m learning about water trucks in Oaxaca, Mexico and the Fraser River in British Columbia, Canada
+- 📚 I went to UBC and Oxford
+- 📫 How to reach me --> diazosorio.fernanda@gmail.com
 
 <!---
 fdiaz09/fdiaz09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
